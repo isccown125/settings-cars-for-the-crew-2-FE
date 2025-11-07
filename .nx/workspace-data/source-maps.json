@@ -1,0 +1,274 @@
+{
+  "apps/frontend": {
+    "root": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.start": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.start.executor": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.start.options": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.start.options.command": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.start.options.cwd": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.command": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.cwd": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputPath": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.command": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.cwd": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.options": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.options.command": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.options.cwd": [
+      "apps/frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.dependsOn": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "libs/api-client": {
+    "root": [
+      "libs/api-client/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "libs/api-client/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "libs/api-client/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "libs/api-client/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "libs/api-client/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "libs/api-client/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.type:data-access": [
+      "libs/api-client/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.scope:shared": [
+      "libs/api-client/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "libs/api-client/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "libs/common-utils": {
+    "root": [
+      "libs/common-utils/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "libs/common-utils/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "libs/common-utils/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "libs/common-utils/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "libs/common-utils/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "libs/common-utils/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.type:util": [
+      "libs/common-utils/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.scope:shared": [
+      "libs/common-utils/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "libs/common-utils/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "libs/shared-types": {
+    "root": [
+      "libs/shared-types/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "libs/shared-types/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "libs/shared-types/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "libs/shared-types/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "libs/shared-types/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "libs/shared-types/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.type:types": [
+      "libs/shared-types/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.scope:shared": [
+      "libs/shared-types/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "libs/shared-types/project.json",
+      "nx/core/project-json"
+    ]
+  }
+}

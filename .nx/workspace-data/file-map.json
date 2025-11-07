@@ -1,0 +1,202 @@
+{
+  "version": "6.0",
+  "nxVersion": "22.0.2",
+  "pathMappings": {
+    "@crew2-monorepo/shared-types": [
+      "libs/shared-types/src/index.ts"
+    ],
+    "@crew2-monorepo/api-client": [
+      "libs/api-client/src/index.ts"
+    ],
+    "@crew2-monorepo/common-utils": [
+      "libs/common-utils/src/index.ts"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "common-utils": [
+        {
+          "file": "libs/common-utils/project.json",
+          "hash": "7728869830564683635"
+        },
+        {
+          "file": "libs/common-utils/src/index.ts",
+          "hash": "17925940209320002004"
+        }
+      ],
+      "frontend": [
+        {
+          "file": "apps/frontend/project.json",
+          "hash": "1733340551310493590"
+        },
+        {
+          "file": "apps/frontend/public/favicon.ico",
+          "hash": "2949791817221603359"
+        },
+        {
+          "file": "apps/frontend/public/index.html",
+          "hash": "13308863839730475495"
+        },
+        {
+          "file": "apps/frontend/public/logo192.png",
+          "hash": "7585273181698778288"
+        },
+        {
+          "file": "apps/frontend/public/logo512.png",
+          "hash": "9339365414554387981"
+        },
+        {
+          "file": "apps/frontend/public/manifest.json",
+          "hash": "1447645250373428393"
+        },
+        {
+          "file": "apps/frontend/public/robots.txt",
+          "hash": "2790380794362165217"
+        },
+        {
+          "file": "apps/frontend/src/App.tsx",
+          "hash": "11274859239246115349",
+          "deps": [
+            "npm:react",
+            "npm:react-router-dom"
+          ]
+        },
+        {
+          "file": "apps/frontend/src/components/List-vechicles/VehiclesList.tsx",
+          "hash": "332607759492203719",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/frontend/src/components/UI/Header/Header.tsx",
+          "hash": "18020381203123941977",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/frontend/src/components/UI/Navigation/Navigation.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/frontend/src/components/UI/Navigation/Navigation.tsx",
+          "hash": "2299805574474290481",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/frontend/src/components/UI/Navigation/NavigationItem.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/frontend/src/components/UI/Navigation/NavigationItem.tsx",
+          "hash": "13267372534216972982",
+          "deps": [
+            "npm:react",
+            "npm:react-router-dom"
+          ]
+        },
+        {
+          "file": "apps/frontend/src/components/UI/WebContentWrapper/MainContent.tsx",
+          "hash": "16677535567754920386",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/frontend/src/index.css",
+          "hash": "14056909652331273425"
+        },
+        {
+          "file": "apps/frontend/src/index.tsx",
+          "hash": "4462866574485898457",
+          "deps": [
+            "npm:react",
+            "npm:react-dom",
+            "npm:react-router-dom"
+          ]
+        },
+        {
+          "file": "apps/frontend/src/pages/Home.tsx",
+          "hash": "16371770404054536820",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/frontend/src/pages/ListVehicles.tsx",
+          "hash": "16871171092469896445",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/frontend/src/types/declarations.d.ts",
+          "hash": "7607299653368530391"
+        },
+        {
+          "file": "apps/frontend/tsconfig.json",
+          "hash": "5800389905844754546"
+        }
+      ],
+      "shared-types": [
+        {
+          "file": "libs/shared-types/project.json",
+          "hash": "4798121165659626738"
+        },
+        {
+          "file": "libs/shared-types/src/index.ts",
+          "hash": "4477773331410672295"
+        }
+      ],
+      "api-client": [
+        {
+          "file": "libs/api-client/project.json",
+          "hash": "11080313003464676365"
+        },
+        {
+          "file": "libs/api-client/src/index.ts",
+          "hash": "636350383116630607"
+        }
+      ]
+    },
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "16895590446058447584"
+      },
+      {
+        "file": ".idea/workspace.xml",
+        "hash": "2241455545316206922"
+      },
+      {
+        "file": ".nxignore",
+        "hash": "8267713891482413680"
+      },
+      {
+        "file": "nx.json",
+        "hash": "4687865643102244855"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "14565056326262119626"
+      },
+      {
+        "file": "package.json",
+        "hash": "14574091291680018526"
+      },
+      {
+        "file": "readme.md",
+        "hash": "17911282315018038361"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "18380499644031570589"
+      }
+    ]
+  },
+  "externalNodesHash": "7142925543862368008"
+}
